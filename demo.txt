@@ -1,4 +1,0 @@
-git config --global user.name "vaibhavi"
-
-git config --global user.email "vaibhavimahajan74@gmail.com"
-
